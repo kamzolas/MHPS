@@ -13,21 +13,14 @@ TableS1B_HHPS.xlsx
 Copied columns with model names and HHPS scores of "Metabolic relevance" and "Ability to induce MASH fibrosis" from Supplementary Table S1B
 
 BioStudies: https://www.ebi.ac.uk/biostudies/studies/S-BSST1361
-Degs_EPoS.csv
-Degs_UCAM_VCU.csv
-FGSEA_humanEPOSvsNAFL_merged.csv
-FGSEA_humanUCAM_VCUvsNAFL_merged.csv
+Degs_EPoS.csv, Degs_UCAM_VCU.csv, FGSEA_humanEPOSvsNAFL_merged.csv, FGSEA_humanUCAM_VCUvsNAFL_merged.csv
 
-Microarrays_D.E.Analysis_results.csv
-Mouse_DEGs.csv
-Rat_DEGs_with_Log2CPMs_AfterFilteringLowLog2CPMs.csv
+Microarrays_D.E.Analysis_results.csv, Mouse_DEGs.csv, Rat_DEGs_with_Log2CPMs_AfterFilteringLowLog2CPMs.csv
 
 Table S9 - METADATA per animal.xlsx
 
 Utils:
-MouseHuman_orthologyMapping.txt
-rat_to_human.txt
-Final Liver-related pathways.csv
+MouseHuman_orthologyMapping.txt, rat_to_human.txt, Final Liver-related pathways.csv
 
 Output
 --------------------------------------------
