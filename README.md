@@ -1,7 +1,7 @@
 # MHPS (MASH Human Proximity Score)
 Ranking of commonly used rodent MASLD models, based on their proximity to human MASLD according to their phenotypic, molecular, and histological profiles. 
-This pipeline supports the analyses published in Nature Metabolism (https://www.nature.com/articles/s42255-024-01043-6, 
-Vacca, M., Kamzolas, I., Harder, L.M. et al. An unbiased ranking of murine dietary models based on their proximity to human metabolic dysfunction-associated steatotic liver disease (MASLD). Nat Metab 6, 1178–1196 (2024). https://doi.org/10.1038/s42255-024-01043-6
+This pipeline supports the analyses published in our Nature Metabolism paper (https://www.nature.com/articles/s42255-024-01043-6 --- 
+Vacca, Kamzolas, Harder, et al. An unbiased ranking of murine dietary models based on their proximity to human metabolic dysfunction-associated steatotic liver disease (MASLD). Nat Metab 6, 1178–1196 (2024). https://doi.org/10.1038/s42255-024-01043-6
 
 Running the MHPS pipeline
 --------------------------------------------
